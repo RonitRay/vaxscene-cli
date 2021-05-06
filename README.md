@@ -9,6 +9,7 @@ Prerequisite: Python 3.x
 To start:
 1. Edit vaxscene-cli.py and change the parameters DISTRICT_ID and AGE_BRACKET. District ID can be fetched using Co-Win's state and district listing web service.
 
+
     pip3 install schedule requests datetime playsound
     python3 vaxscene-cli.py
 
